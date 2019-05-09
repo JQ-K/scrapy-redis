@@ -6,6 +6,7 @@ from . import defaults
 
 
 # Shortcut maps 'setting name' -> 'parmater name'.
+# 源代码学习
 SETTINGS_PARAMS_MAP = {
     'REDIS_URL': 'url',
     'REDIS_HOST': 'host',
